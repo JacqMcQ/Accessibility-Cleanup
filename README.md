@@ -11,7 +11,7 @@ N/A
  On this website you can see that the description for the page was updated to reflect more accurately the usuage. Links were repaired and description were added for all imbeded images. 
 
 # Credits
-N/A
+W3Schools, https://www.w3schools.com/css/css3_flexbox_items.asp, 5/10/2024.
 
 # License
 N/A
