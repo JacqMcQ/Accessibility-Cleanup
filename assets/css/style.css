@@ -30,19 +30,18 @@ body {
 
 .horizontal-list {
     list-style: none;
-    margin:15px;
+    margin-right:20px;
     padding: 0;
     display: flex;
-    align-items: flex-end;
-    row-gap: 1px;
+    align-content: flex-end;
 }
 
 .horizontal-list li{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-    margin-left: 32px;
+    margin-left: 25px;
+    padding-top: 15px;
 }
-
 
 a {
     color: #ffffff;
@@ -57,7 +56,6 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    display: flex;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
